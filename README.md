@@ -1,3 +1,5 @@
+echo "# Shyne"
+
 Shyne Project (Manhattan Challenge)
 
 DevTubbies team:
